@@ -59,13 +59,6 @@ Ensure you have the **`metadata_sample.csv`** file in the same directory as the 
 
 # 🦠 CORD-19 Data Analysis Application
 
-## 📂 File Structure
-
-├── app.py # Streamlit web application 
-├── assignment.py # Data analysis script
-├── metadata_sample.csv # Dataset 
-└── README.md # Project documentation 
-
 ---
 
 ## 🚀 Overview
