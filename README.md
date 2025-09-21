@@ -58,11 +58,13 @@ Ensure you have the **`metadata_sample.csv`** file in the same directory as the 
 
 ## Running the Analysis Script
 
-Run the Python script directly:
+**Run the Python script directly:**
 
 ```bash
 python assignment.py
 The script will output data statistics and display visualizations.
+# 🦠 CORD-19 Data Analysis Application
+
 ## 📂 File Structure
 ```bash
 .
