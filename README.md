@@ -61,10 +61,10 @@ Ensure you have the **`metadata_sample.csv`** file in the same directory as the 
 
 ## 📂 File Structure
 
-├── app.py # Streamlit web application
-├── assignment.py # Data analysis script
-├── metadata_sample.csv # Dataset
-└── README.md # Project documentation
+├── app.py # Streamlit web application /n
+├── assignment.py # Data analysis script /n
+├── metadata_sample.csv # Dataset /n
+└── README.md # Project documentation /n
 
 ---
 
