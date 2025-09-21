@@ -17,7 +17,7 @@ It includes both a **Streamlit web application** for interactive exploration and
 - Display of **top journals** publishing COVID-19 research  
 - Word cloud visualization of paper titles  
 
-### 🔹 Analysis Script (`assignment.py`)
+### 🔹 Analysis Script (`analysis.py`)
 - Automated **data loading and cleaning**  
 - Basic **data exploration** and statistics  
 - Generation of visualizations for:
