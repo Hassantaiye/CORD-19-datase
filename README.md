@@ -52,6 +52,7 @@ Ensure you have the **`metadata_sample.csv`** file in the same directory as the 
 
    ```bash
    streamlit run app.py
+   ```
 3. The app will open in your default browser.
 4. Use the sidebar controls to filter data by year range.
 5. Explore visualizations and data samples.
@@ -110,7 +111,7 @@ The dataset includes:
 Install dependencies with:  
 ```bash
 pip install -r requirements.txt
-
+```
 ## 📝 Notes
 - The application expects a file named **`metadata_sample.csv`** in the same directory.  
 - The original dataset can be found here: [CORD-19 on Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)  
