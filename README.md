@@ -110,3 +110,24 @@ The dataset includes:
 Install dependencies with:  
 ```bash
 pip install -r requirements.txt
+
+## 📝 Notes
+- The application expects a file named **`metadata_sample.csv`** in the same directory.  
+- The original dataset can be found here: [CORD-19 on Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)  
+- For large datasets, consider using a subset of the data for better performance.  
+
+---
+
+## 🔮 Future Enhancements
+Potential improvements include:  
+- More interactive filters (e.g., by journal, source)  
+- Topic modeling on abstracts  
+- Citation analysis (if data is available)  
+- Advanced NLP for text analysis  
+- Export functionality for processed data & visualizations  
+
+---
+
+## 📜 License
+This project is provided **for educational purposes only**.  
+Please ensure compliance with the **CORD-19 dataset terms of use** when applying this project.
